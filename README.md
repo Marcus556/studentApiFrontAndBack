@@ -28,11 +28,15 @@
 Har ingen vidare feedback då jag gör kursen själv i efterhand.
 
 # Praktisk del:
+## Både backend och frontend:
 ## Installation:
-1. git clone git@github.com:Marcus556/api-uppg-1.git
-2. cd /api-uppg-1/
+1. git clone git@github.com:Marcus556/studentApiFrontAndBack.git
+2. cd .\studentApiFrontAndBack\
 3. npm install
-4. npm start
+4. cd .\client\
+5. npm install
+6. cd..
+7. npm run dev
 
 ### GET /api/students
 req:
